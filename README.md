@@ -1,5 +1,5 @@
 # zoom-automation-bot
-Zoom class auto-joiner. Read this File before using!
+Zoom class auto-joiner. Read this File (README.md) before using!
 
 
 Step 1. Download the files.
